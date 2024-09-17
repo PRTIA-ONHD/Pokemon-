@@ -1,0 +1,38 @@
+nav {
+    background-color: #fffad6;
+    width: 100%;
+    height: 90px;
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    padding-right: 10rem;
+    padding-left: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.center-input {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+}
+
+.right-links {
+    display: flex;
+    align-items: center;
+    gap: 2rem; /* Adjust the gap between the links if necessary */
+}
+
+.right-links a {
+    color: #666666;
+    text-decoration: none;
+}

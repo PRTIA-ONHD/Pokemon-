@@ -1,0 +1,18 @@
+.bar {
+    background-color: #FFCB05;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.bar-wrap {
+    width: 100%;
+    padding-right: 10rem;
+    padding-left: 10rem;
+    display: flex;
+    justify-content: space-between;
+    color: #373737;
+}
+
+
